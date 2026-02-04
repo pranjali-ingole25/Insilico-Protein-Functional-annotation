@@ -5,10 +5,6 @@
 This project focuses on the computational identification and functional annotation of an uncharacterized protein using sequence analysis and homology-based annotation.
 The study demonstrates how an unknown biological sequence can be analyzed in silico to predict its quality, similarity, and biological function using Biopython and Blast.
 
-🎯 Research Question
-
-How can an unknown or hypothetical biological sequence be computationally analyzed to assess its quality, identify homologous sequences, and predict its biological function?
-
 🧪 Dataset
 
 Sequence source: UniProt
