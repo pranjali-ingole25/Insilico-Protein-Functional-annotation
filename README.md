@@ -5,6 +5,7 @@
 This project focuses on the computational identification and functional annotation of an uncharacterized protein using sequence analysis and homology-based annotation.
 The study demonstrates how an unknown biological sequence can be analyzed in silico to predict its quality, similarity, and biological function using Biopython and Bioinformatics Tools.
 
+
 🧪 Dataset
 
 Sequence source: UniProt
@@ -14,6 +15,7 @@ Protein ID: Q2W564
 Description: Uncharacterized protein
 
 Sequence format: FASTA
+
 
 ⚙️ Tools & Technologies Used
 
@@ -28,6 +30,7 @@ InterproScan
 VS Code
 
 Git & GitHub
+
 
 🔬 Methodology / Pipeline
 
@@ -45,8 +48,11 @@ Amino acid composition analysis
 3️⃣ Homology Search (BLAST Analysis)
 
 BLASTP was performed against the NCBI non-redundant protein database using Biopython.
+
 Key BLAST Parameters:
+
 Database: nr
+
 Program: BLASTP
 
 4️⃣ Functional Annotation
@@ -54,8 +60,11 @@ Program: BLASTP
 Using BLAST homology and domain analysis (InterPro results), the protein was classified as an L,D-transpeptidase family protein.
 
 Predicted Function:
+
 Peptidoglycan cross-linking
+
 Bacterial cell wall biosynthesis
+
 Maintaining structural integrity of the cell wall
 
 5️⃣ Biological Interpretation
