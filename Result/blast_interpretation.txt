@@ -1,0 +1,75 @@
+Total Hits: 50
+
+Top 10 Hits 
+
+Hit title:  ref|WP_011384605.1| L,D-transpeptidase family protein [Paramagnetospirillum magneticum] >dbj|BAE51011.1| Uncharacterized protein conserved in bacteria [Paramagnetospirillum magneticum AMB-1]
+Length:  535
+Score:  2803.0
+E-value:  0.0
+Identities:  535
+------------------------------------------------------------
+
+Hit title:  ref|WP_082036595.1| L,D-transpeptidase family protein [Paramagnetospirillum magnetotacticum]
+Length:  535
+Score:  2462.0
+E-value:  0.0
+Identities:  461
+------------------------------------------------------------
+
+Hit title:  ref|WP_242442859.1| L,D-transpeptidase family protein [Magnetospirillum sp. 15-1]
+Length:  535
+Score:  2437.0
+E-value:  0.0
+Identities:  452
+------------------------------------------------------------
+
+Hit title:  gb|KIL98314.1| hypothetical protein CCC_03597 [Paramagnetospirillum magnetotacticum MS-1]
+Length:  523
+Score:  2400.0
+E-value:  0.0
+Identities:  449
+------------------------------------------------------------
+
+Hit title:  ref|WP_152426637.1| L,D-transpeptidase family protein [Paramagnetospirillum caucaseum]
+Length:  536
+Score:  2302.0
+E-value:  0.0
+Identities:  441
+------------------------------------------------------------
+
+Hit title:  ref|WP_172821927.1| L,D-transpeptidase family protein [Magnetospirillum sp. XM-1] >emb|CUW40088.1| Putative peptidoglycan-binding domain protein [Magnetospirillum sp. XM-1]
+Length:  537
+Score:  2299.0
+E-value:  0.0
+Identities:  437
+------------------------------------------------------------
+
+Hit title:  gb|EME71904.1| hypothetical protein H261_01617 [Paramagnetospirillum caucaseum]
+Length:  535
+Score:  2292.0
+E-value:  0.0
+Identities:  439
+------------------------------------------------------------
+
+Hit title:  ref|WP_168185881.1| L,D-transpeptidase family protein [Magnetospirillum sp. ME-1]
+Length:  532
+Score:  2246.0
+E-value:  0.0
+Identities:  441
+------------------------------------------------------------
+
+Hit title:  gb|ARJ68090.1| hypothetical protein WV31_08245 [Magnetospirillum sp. ME-1]
+Length:  520
+Score:  2186.0
+E-value:  0.0
+Identities:  429
+------------------------------------------------------------
+
+Hit title:  emb|CAA7617125.1| conserved hypothetical protein [Candidatus Terasakiella magnetica]
+Length:  535
+Score:  1888.0
+E-value:  0.0
+Identities:  346
+------------------------------------------------------------
+
+BLAST analysis completed.
