@@ -3,13 +3,16 @@
 📌 Project Overview
 
 This project focuses on the computational identification and functional annotation of an uncharacterized protein using sequence analysis and homology-based annotation.
-The study demonstrates how an unknown biological sequence can be analyzed in silico to predict its quality, similarity, and biological function using Biopython and Blast.
+The study demonstrates how an unknown biological sequence can be analyzed in silico to predict its quality, similarity, and biological function using Biopython and Bioinformatics Tools.
 
 🧪 Dataset
 
 Sequence source: UniProt
+
 Protein ID: Q2W564
+
 Description: Uncharacterized protein
+
 Sequence format: FASTA
 
 ⚙️ Tools & Technologies Used
