@@ -1,0 +1,19 @@
+ProtParam Results:
+
+Property	                     Value
+--------------------           -----------------
+Protein length	                 535 aa
+Molecular weight	             58.45 kDa
+Isoelectric point (pI)	         9.24
+Instability index	             43.85 (unstable)
+Aromaticity	                     0.065
+GRAVY	                         -0.31 (hydrophilic)
+
+
+Interpretation:
+The protein has a molecular weight of 58.45 kDa and a basic isoelectric point (pI 9.24), 
+suggesting it carries a net positive charge at physiological pH.
+The instability index (43.85) indicates it may be unstable in vitro but stable in the cellular environment.
+The negative GRAVY value (-0.31) suggests the protein is hydrophilic and likely soluble rather than membrane-bound.
+Amino acid composition shows enrichment of alanine, leucine, glycine and arginine, consistent with enzymatic and structural roles.
+Overall physicochemical properties strongly support BLAST annotation of the protein as an L,D-transpeptidase involved in peptidoglycan cell wall metabolism.

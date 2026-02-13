@@ -9,7 +9,7 @@ components. The most significant feature detected was the L,D-transpeptidase cat
 PANTHER, ProSite, and SUPERFAMILY databases.
 
 L,D-transpeptidases are enzymes responsible for cross-linking peptidoglycan layers in bacterial cell walls and are known to play 
-a key role in cell wall biosynthesis and antibiotic resistance. Gene Ontology annotation confirmed transferase activity (GO:0016740).
+a key role in cell wall biosynthesis and antibiotic resistance. Gene Ontology annotation confirmed transferase activity.
 
 Overall, the protein is predicted to be a secreted peptidoglycan-binding L,D-transpeptidase involved in bacterial cell wall 
 remodeling.

@@ -22,7 +22,9 @@ with open (r"D:\Biopython\Result\blast_results.xml") as b:
             print("Length: ",str(alignment.length))
             print("Score: ", str(hsp.score) )
             print("E-value: ", str(hsp.expect) )
-            print("Identities: ", str(hsp.identities))
+            identity_percent = (hsp.identities / hsp.align_length) * 100
+            print(f"Identities: {identity_percent:.2f}%")
+
             print("-" * 60 + "\n")
 
 
