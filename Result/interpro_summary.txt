@@ -1,0 +1,15 @@
+Domain and Functional Annotation of Protein Q2W564
+
+InterPro analysis revealed that the protein contains a signal peptide region (residues 1–26), indicating that the protein is 
+secreted and localized outside the cytoplasm. Phobius further predicted a large non-cytoplasmic domain (27–535), suggesting 
+extracellular or cell-wall localization.
+
+Domain analysis identified a peptidoglycan-binding domain (208–265), indicating the protein interacts with bacterial cell wall 
+components. The most significant feature detected was the L,D-transpeptidase catalytic domain (293–453), supported by Pfam, CDD, 
+PANTHER, ProSite, and SUPERFAMILY databases.
+
+L,D-transpeptidases are enzymes responsible for cross-linking peptidoglycan layers in bacterial cell walls and are known to play 
+a key role in cell wall biosynthesis and antibiotic resistance. Gene Ontology annotation confirmed transferase activity (GO:0016740).
+
+Overall, the protein is predicted to be a secreted peptidoglycan-binding L,D-transpeptidase involved in bacterial cell wall 
+remodeling.

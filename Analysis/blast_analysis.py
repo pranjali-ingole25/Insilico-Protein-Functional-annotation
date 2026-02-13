@@ -3,7 +3,6 @@ from Bio import SeqIO
 
 record = SeqIO.read(r"D:\Biopython\Data\Sequence.fasta","fasta")
 
-# Run BLASTP
 result_handle = NCBIWWW.qblast(
     program="blastp",
     database="nr",
